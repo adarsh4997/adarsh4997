@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adarsh Kumar</h1>
-<h3 align="center">📚 Software engineer with 2 years of experience in the Information technology and Services industry.</h3>
+<h3 align="center">📚 Software engineer with 2 years of experience working in Information technology and Services industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adarsh4997&label=Profile%20views&color=0e75b6&style=flat" alt="adarsh4997" /> </p>
 
