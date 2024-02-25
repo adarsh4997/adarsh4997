@@ -23,3 +23,18 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adarsh4997&show_icons=true&locale=en&layout=compact" alt="adarsh4997" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adarsh4997&show_icons=true&locale=en" alt="adarsh4997" /></p>
+
+#### Want to Build Your Own?
+
+Do you like my profile and want to build your own? It's very simple. GitHub recently added a new feature called **Profile Readmes**. For it to work, do the following:
+
+1. Create a *special* GitHub repository with your username as repository name. My username is `adarsh4997` so my profile readme repository has the name `adarsh4997`.
+1. Add a `README.md` to this repository.
+1. Put some cool content about yourself (or anything you want) into `README.md`.
+
+And that's about it. The `README.md` of your profile readme repository will be displayed on your profile page.
+
+-----
+Credits: [Adarsh Kumar](https://github.com/adarsh4997)
+
+Last Edited on: 25/02/2024
